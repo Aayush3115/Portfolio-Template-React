@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="footer-top">
             <div className="footer-top-left">
                 <img src={footer_logo} alt="" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus consequatur culpa ut, doloremque soluta ratione.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis deleniti pariatur enim eveniet cum vero nesciunt architecto, quaerat aut consectetur.</p>
             </div>
             <div className="footer-top-right">
                 <div className="footer-email-input">
